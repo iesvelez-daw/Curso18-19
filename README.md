@@ -12,10 +12,15 @@
 - [de la Matta Cadenas, Julio](https://github.com/kibrands) :octocat: `kibrands`
 - [Delgado Paniagua, Valle](https://github.com/Yaye83) :octocat: `Yaye83`
 - [Gómez Colorado, Aurora](https://github.com/JusticeSeven) :octocat: `JusticeSeven`
-- [, ](https://github.com/) :octocat: ``
-
-
-
+- [Prieto Ortega, Gloria](https://github.com/GlPrieto) :octocat: `GlPrieto`
+- [Ramos Durán, Rafael](https://github.com/Rafa567) :octocat: `Rafa567`
+- [del Río Ruger, Iván](https://github.com/Ivan2604) :octocat: `Ivan2604`
+- [López Chaparro, Francisco de Asís](https://github.com/Pacolopezc55) :octocat: `Pacolopezc55`
+- [Fortea Dugo, Mateo](https://github.com/mfortea) :octocat: `mfortea`
+- [Cordobés Carmona, Javier](https://github.com/Jcordobes) :octocat: `Jcordobes`
+- [Filter Cifuentes, José](https://github.com/josefilter) :octocat: `josefilter`
+- [Guzmán Carmona, Manuel Jesús](https://github.com/manuj12345) :octocat: `manuj12345`
+- [González Cano, José](https://github.com/cuteboymusic) :octocat: `cuteboymusic`
 
 
 ### 2º DAW
