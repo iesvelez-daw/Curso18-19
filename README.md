@@ -4,22 +4,28 @@
 
 ### 1º DAW
 
-- [Cívico Villanueva, Antonio]( https://github.com/civico91) :octocat: `civico91`
-- [García Castilla, Manuel](https://github.com/ManuelGC98) :octocat: `ManuelGC98`
-- [Berral Jiménez, Francisco Pablo](https://github.com/fp2000) :octocat: `fp2000`
 - [Adalid López, José Ángel](https://github.com/adalid97) :octocat: `adalid97`
-- [de la Matta Cadenas, Julio](https://github.com/kibrands) :octocat: `kibrands`
+- [Ávila Gómez, Fernando](https://github.com/) :octocat: ` `
+- [Berral Jiménez, Francisco Pablo](https://github.com/fp2000) :octocat: `fp2000`
+- [Cívico Villanueva, Antonio]( https://github.com/civico91) :octocat: `civico91`
+- [Cordobés Carmona, Javier](https://github.com/Jcordobes) :octocat: `Jcordobes`
+- [De la Matta Cadenas, Julio](https://github.com/kibrands) :octocat: `kibrands`
+- [Del Moral Alcántara, Álvaro](https://github.com/) :octocat: ` `
+- [Del Río Ruger, Iván](https://github.com/Ivan2604) :octocat: `Ivan2604`
 - [Delgado Paniagua, Valle](https://github.com/Yaye83) :octocat: `Yaye83`
+- [Filter Cifuentes, José](https://github.com/josefilter) :octocat: `josefilter`
+- [Fortea Dugo, Mateo](https://github.com/mfortea) :octocat: `mfortea`
+- [García Castilla, Manuel](https://github.com/ManuelGC98) :octocat: `ManuelGC98`
 - [Gómez Colorado, Aurora](https://github.com/JusticeSeven) :octocat: `JusticeSeven`
+- [González Cano, José](https://github.com/cuteboymusic) :octocat: `cuteboymusic`
+- [Guzmán Carmona, Manuel Jesús](https://github.com/manuj12345) :octocat: `manuj12345`
+- [López Chaparro, Francisco de Asís](https://github.com/Pacolopezc55) :octocat: `Pacolopezc55`
 - [Prieto Ortega, Gloria](https://github.com/GlPrieto) :octocat: `GlPrieto`
 - [Ramos Durán, Rafael](https://github.com/Rafa567) :octocat: `Rafa567`
-- [del Río Ruger, Iván](https://github.com/Ivan2604) :octocat: `Ivan2604`
-- [López Chaparro, Francisco de Asís](https://github.com/Pacolopezc55) :octocat: `Pacolopezc55`
-- [Fortea Dugo, Mateo](https://github.com/mfortea) :octocat: `mfortea`
-- [Cordobés Carmona, Javier](https://github.com/Jcordobes) :octocat: `Jcordobes`
-- [Filter Cifuentes, José](https://github.com/josefilter) :octocat: `josefilter`
-- [Guzmán Carmona, Manuel Jesús](https://github.com/manuj12345) :octocat: `manuj12345`
-- [González Cano, José](https://github.com/cuteboymusic) :octocat: `cuteboymusic`
+- [Ruiz Chaves, Juan Bautista](https://github.com/) :octocat: ` `
+- [Santana Enriquez, Carmen](https://github.com/ ) :octocat: ` `
+
+
 
 
 ### 2º DAW
