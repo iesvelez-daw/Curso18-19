@@ -6,7 +6,6 @@
 
 - [Cívico Villanueva, Antonio]( https://github.com/civico91) :octocat: `civico91`
 - [García Castilla, Manuel](https://github.com/ManuelGC98) :octocat: `ManuelGC98`
-- [Reyes Hutinel, Vicente Darío](https://github.com/xMapaxee) :octocat: `xMapaxee`
 - [Berral Jiménez, Francisco Pablo](https://github.com/fp2000) :octocat: `fp2000`
 - [Adalid López, José Ángel](https://github.com/adalid97) :octocat: `adalid97`
 - [de la Matta Cadenas, Julio](https://github.com/kibrands) :octocat: `kibrands`
