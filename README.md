@@ -5,12 +5,12 @@
 ### 1º DAW
 
 - [Adalid López, José Ángel](https://github.com/adalid97) :octocat: `adalid97`
-- [Ávila Gómez, Fernando](https://github.com/) :octocat: ` `
+- [Ávila Gómez, Fernando](https://github.com/fdoavila00) :octocat: `fdoavila00`
 - [Berral Jiménez, Francisco Pablo](https://github.com/fp2000) :octocat: `fp2000`
 - [Cívico Villanueva, Antonio]( https://github.com/civico91) :octocat: `civico91`
 - [Cordobés Carmona, Javier](https://github.com/Jcordobes) :octocat: `Jcordobes`
 - [De la Matta Cadenas, Julio](https://github.com/kibrands) :octocat: `kibrands`
-- [Del Moral Alcántara, Álvaro](https://github.com/) :octocat: ` `
+- [Del Moral Alcántara, Álvaro](https://github.com/alvarodelmoral) :octocat: `alvarodelmoral`
 - [Del Río Ruger, Iván](https://github.com/Ivan2604) :octocat: `Ivan2604`
 - [Delgado Paniagua, Valle](https://github.com/Yaye83) :octocat: `Yaye83`
 - [Filter Cifuentes, José](https://github.com/josefilter) :octocat: `josefilter`
@@ -22,8 +22,8 @@
 - [López Chaparro, Francisco de Asís](https://github.com/Pacolopezc55) :octocat: `Pacolopezc55`
 - [Prieto Ortega, Gloria](https://github.com/GlPrieto) :octocat: `GlPrieto`
 - [Ramos Durán, Rafael](https://github.com/Rafa567) :octocat: `Rafa567`
-- [Ruiz Chaves, Juan Bautista](https://github.com/) :octocat: ` `
-- [Santana Enriquez, Carmen](https://github.com/ ) :octocat: ` `
+- [Ruiz Chaves, Juan Bautista](https://github.com/jbruizchaves) :octocat: `jbruizchaves`
+- [Santana Enriquez, Carmen](https://github.com/casant83) :octocat: `casant83`
 
 
 
