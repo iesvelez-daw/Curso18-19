@@ -30,7 +30,7 @@
 
 ### 2º DAW
 
-- [Álvarez-Ossorio Martín, Rafael](https://github.com/raom30/gestion-olivar) :octocat: [Demo en Heroku+mLab](https://gestion-olivar.herokuapp.com/) 
+- [Álvarez-Ossorio Martín, Rafael](https://github.com/raom30) :octocat: `raom30`
 - [Atenciano Rodríguez, Daniel](https://github.com/daniatenciano) :octocat: `daniatenciano`
 - [Bermudo Delgado, Juan de Dios](https://github.com/ezxioj87) :octocat: `ezxioj87`
 - [Cruz Díaz, Jesús Diego](https://github.com/diegocd) :octocat: `diegocd`
