@@ -16,7 +16,7 @@
 - [Filter Cifuentes, José](https://github.com/josefilter) :octocat: `josefilter`
 - [Fortea Dugo, Mateo](https://github.com/mfortea) :octocat: `mfortea`
 - [García Castilla, Manuel](https://github.com/ManuelGC98) :octocat: `ManuelGC98`
-- [Gómez Colorado, Aurora](https://github.com/JusticeSeven) :octocat: `JusticeSeven`
+- [Gómez Colorado, Aurora](https://github.com/O-riens) :octocat: `O-riens`  
 - [González Cano, José](https://github.com/cuteboymusic) :octocat: `cuteboymusic`
 - [Guzmán Carmona, Manuel Jesús](https://github.com/manuj12345) :octocat: `manuj12345`
 - [López Chaparro, Francisco de Asís](https://github.com/Pacolopezc55) :octocat: `Pacolopezc55`
